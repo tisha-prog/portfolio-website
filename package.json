@@ -1,0 +1,30 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "this is my personal portfolio project",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm run build",
+    "build": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tisha-prog/portfolio-website.git"
+  },
+  "keywords": [
+    "website",
+    "html",
+    "css"
+  ],
+  "author": "this is me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tisha-prog/portfolio-website/issues"
+  },
+  "homepage": "https://github.com/tisha-prog/portfolio-website#readme",
+  "dependencies": {
+    "angularjs": "0.0.1",
+    "daisyui": "^1.16.2",
+    "tailwindcss": "^2.2.19"
+  }
+}
